@@ -1,2 +1,4 @@
-# Next.js---Content-Management-System-using-Google-Sheets-web-apps
-Next.js - Content Management System using Google Sheets web apps
+# Use Google Sheets as a CMS for your Next.js Project
+
+Reference:
+[andreaskeller.name/nextjs-google-sheets-cms](https://andreaskeller.name/blog/nextjs-google-sheets-cms).
